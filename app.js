@@ -3,7 +3,7 @@
   const STATS_KEY = "sommelier_wrong_stats_v1";
   const FONT_KEY = "sommelier_font_delta_v1";
   const HIDE_ANS_KEY = "sommelier_hide_answers_v1";
-  const APP_TITLE = "고명외식고 소믈리에 2급 자격증 필기 대비(creat by 지명T)";
+  const APP_TITLE = "고명외식고 소믈리에 2급 자격증 필기 대비(Created by 지명T)";
   const APP_BRAND = "Sommelier Mock Exam";
   const FONT_MIN = -6;
   const FONT_MAX = 10;

@@ -1,6 +1,6 @@
 # Sommelier Mock Exam
 
-고명외식고 소믈리에 2급 자격증 필기 대비(creat by 지명T)
+고명외식고 소믈리에 2급 자격증 필기 대비(Created by 지명T)
 
 PC · 모바일 브라우저용 웹 모의고사 (`sommelier-mock-exam`)
 
