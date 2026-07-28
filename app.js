@@ -3,8 +3,7 @@
   const STATS_KEY = "sommelier_wrong_stats_v1";
   const FONT_KEY = "sommelier_font_delta_v1";
   const HIDE_ANS_KEY = "sommelier_hide_answers_v1";
-  const APP_TITLE = "소믈리에 자격증_필기 핵심문제(2026 문제포함)";
-  const APP_BRAND = "Sommelier Mock Exam";
+  const APP_BRAND = "고명외식고 소믈리에 2급 자격증 필기 대비(creat by 지명T)";
   const FONT_MIN = -6;
   const FONT_MAX = 10;
 
@@ -204,7 +203,7 @@
           ${chip("Web", "accent")}
           ${chip("필기 모의고사", "muted")}
           <div class="brand">${escapeHtml(APP_BRAND)}</div>
-          <p class="sub">${escapeHtml(APP_TITLE)}</p>
+          <p class="sub">PC · 모바일 브라우저에서 시험/공부/오답노트 훈련</p>
           <div class="stats">
             <div class="stat"><div class="k">문항</div><div class="v">${state.questions.length}</div></div>
             <div class="stat"><div class="k">오답노트</div><div class="v">${wrongCount()}</div></div>
