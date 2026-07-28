@@ -4,11 +4,16 @@ PC · 모바일 브라우저용 웹 모의고사 (`sommelier-mock-exam`)
 
 NCP-MCI Trainer Web과 동일한 방식 · 문제만 소믈리에 필기 핵심문제로 교체
 
+## 접속 주소
+https://ybs8625-cmd.github.io/sommelier-mock-exam/
+
+레포: https://github.com/ybs8625-cmd/sommelier-mock-exam
+
 ## 폴더
 - `index.html` — 진입점
 - `styles.css` — 반응형 스타일
 - `app.js` — 기능 로직
-- `questions.json` — 문제 데이터 (1.txt + 2.txt)
+- `questions.json` — 문제 데이터 (2.txt → 1.txt 순, 선택지 1/2/3/4)
 
 ## 로컬에서 보기
 ```bash
@@ -16,8 +21,6 @@ cd sommelier-mock-exam
 python -m http.server 8766
 ```
 브라우저: http://127.0.0.1:8766/
-
-같은 Wi-Fi면 아이폰 Safari에서 `http://(PC아이피):8766/` 로 접속 가능.
 
 ## 기능
 - 시험/공부 모드
