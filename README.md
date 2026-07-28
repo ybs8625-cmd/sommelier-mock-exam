@@ -1,8 +1,8 @@
-# 고명외식고 소믈리에 2급 자격증 필기 대비(creat by 지명T)
+# 소믈리에 자격증_필기 핵심문제(2026 문제포함)
 
 PC · 모바일 브라우저용 웹 모의고사 (`sommelier-mock-exam`)
 
-NCP-MCI Trainer Web과 동일한 방식 · 문제만 소믈리에 필기로 교체
+NCP-MCI Trainer Web과 동일한 방식 · 문제만 소믈리에 필기 핵심문제로 교체
 
 ## 접속 주소
 https://ybs8625-cmd.github.io/sommelier-mock-exam/
